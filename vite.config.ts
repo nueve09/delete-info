@@ -10,4 +10,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src')
     }
   },
+  base: 'https://nueve09.github.io/delete-info',
 })
