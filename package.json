@@ -14,7 +14,7 @@
     "@types/node": "^20.14.8",
     "bootstrap": "^5.3.3",
     "react": "^18.2.0",
-    "react-bootstrap": "^2.10.3",
+    "react-bootstrap": "^2.10.7",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.52.0",
     "sweetalert2": "^11.12.0",
